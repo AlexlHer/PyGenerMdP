@@ -92,20 +92,6 @@ main()
 """
 Changelog :
 
-v1.1 :
-Correction temporaire d'un bug de fermeture 
-(le 2eme thread ne se fermai pas, maintenant, 
-il plante lorsque l'on quitte le logiciel, et donc se ferme).
-
 v1.0 :
-Ajout d'un pourcentage avec le module threading.
-Outil de cryptage amélioré.
-Rapidité accru.
-Ajout du support du jpeg.
-Interface complétée.
-Erreurs corrigées.
-Programme renommé en PyCryptImage ou PyCI.
-
-v0.5 :
-Code fonctionnel, basé sur l'exercice "cache_image".
+Première version.
 """
